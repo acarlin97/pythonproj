@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title/>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The primary objective from this project was to acquire historical shoreline information for all of the Northern Ireland coastline. Having this detailed understanding of the coast’s shoreline position and geometry over annual to decadal time periods is essential in any management of the coast.The
+historical shoreline analysis was based on all available Ordnance Survey maps
+and aerial imagery information. Analysis looked at position and geometry over
+annual to decadal time periods, providing a dynamic picture of how the
+coastline has changed since the start of the early 1800s.Once
+all datasets were collated, data was interrogated using the ArcGIS package –
+Digital Shoreline Analysis System (DSAS). DSAS is a software package which
+enables a user to calculate rate-of-change statistics from multiple historical
+shoreline positions. Rate-of-change was collected at 25m intervals and
+displayed both statistically and spatially allowing for areas of
+retreat/accretion to be identified at any given stretch of coastline.The DSAS software will produce the following rate-of-change statistics:Net Shoreline Movement (NSM) – the distance between the oldest and the youngest shorelines.Shoreline Change Envelope (SCE) – a measure of the total change in shoreline movement considering all available shoreline positions and reporting their distances, without reference to their specific dates.End Point Rate (EPR) – derived by dividing the distance of shoreline movement by the time elapsed between the oldest and the youngest shoreline positions.Linear Regression Rate (LRR) – determines a rate of change statistic by fitting a least square regression to all shorelines at specific transects.Weighted Linear Regression Rate (WLR) - calculates a weighted linear regression of shoreline change on each transect. It considers the shoreline uncertainty giving more emphasis on shorelines with a smaller error.The end product provided by Ulster University is an invaluable tool and digital asset that has helped to visualise shoreline change and assess approximate rates of historical change at any given coastal stretch on the Northern Ireland coast.</abstract>
+            <purpose>Historical shoreline analysis of the Northern Ireland coastline based on all available Ordnance Survey maps and aerial imagery information. Analysis looked at position and geometry over annual to decadal time periods, providing a dynamic picture of how the coastline has changed since the start of the early 1800s.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Shorelines</themekey>
+                <themekey>Rates</themekey>
+                <themekey>Shoreline change</themekey>
+                <themekey>Historic</themekey>
+                <themekey>Analysis</themekey>
+                <themekey>Northern</themekey>
+                <themekey>Ireland</themekey>
+                <themekey>3D</themekey>
+                <themekey>Coastal</themekey>
+                <themekey>Survey</themekey>
+                <themekey>Observatory</themekey>
+                <themekey>Marine</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Contains public sector information licensed under the Open Government Licence v3.0.Contains Ordnance Survey of Northern Ireland information licensed under the Open Government Licence v3.0.</useconst>
+        <datacred>Department of Agriculture, Environment and Rural Affairs (DAERA), Ulster University (Grottoli, E., Biausque, M., Jackson, D.W.T., Cooper, J.A.G.)
+
+Contains Ordnance Survey of Northern Ireland information licensed under the Open Government Licence v3.0. </datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
