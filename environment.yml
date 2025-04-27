@@ -6,7 +6,6 @@ dependencies:
   - python=3.9
   - geopandas
   - cartopy
+  - matplotlib
   - rasterio
   - pyepsg
-  - folium
-  - rasterstats
