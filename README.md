@@ -4,10 +4,10 @@ This project uses spatial analysis and Python programming to assess Historic Env
 [Project Repository](https://github.com/acarlin97/pythonproj)
 ## Setup Instructions
 1. Install the required software: [Git](https://git-scm.com/) and [Anaconda Naviagtor](https://www.anaconda.com/download).
-2. Clone the repository: git clone https://github.com/your_username/pythonproj.git
-3. Create the conda environment: conda env create -f environment.yml
-4. Activate the environment: conda activate pythonproj
-5. Run the main script: python proj_script.py
+2. Clone the repository: **git clone https://github.com/your_username/pythonproj.git**
+3. Create the conda environment: **conda env create -f environment.yml**
+4. Activate the environment: **conda activate pythonproj**
+5. Run the main script in an IDE (e.g. PyCharm) or using the terminal/command prompt: **python proj_script.py**
 ## Main Dependencies
 - geopandas
 - cartopy
