@@ -419,7 +419,7 @@ smr_near_coast.to_file('data_files/SMR_near_coast.shp')
 ihr_near_coast.to_file('data_files/IHR_near_coast.shp')
 dhr_near_coast.to_file('data_files/DHR_near_coast.shp')
 
-# figure 2 - neutral basemap on map
+# figure 2a - neutral basemap on map
 # create the map of HER sites across Northern Ireland
 fig2 = plt.figure(figsize=(8, 8))
 ax2 = plt.axes(projection=ni_utm)
@@ -483,7 +483,7 @@ scale_bar(ax2)
 # save figure
 fig2.savefig('Figure2.png', bbox_inches='tight', dpi=300)
 
-# figure 2.5 - NI_Mosaic raster backdrop on map
+# figure 2b - NI_Mosaic raster backdrop on map
 # create the figure and axes with UTM projection
 fig2_5 = plt.figure(figsize=(8, 8))
 ax2_5 = plt.axes(projection=ni_utm)
@@ -573,7 +573,7 @@ smr_near_coast_15m.to_file('data_files/SMR_near_coast_15m.shp')
 ihr_near_coast_15m.to_file('data_files/IHR_near_coast_15m.shp')
 dhr_near_coast_15m.to_file('data_files/DHR_near_coast_15m.shp')
 
-# figure 3 - neutral basemap on map
+# figure 3a - neutral basemap on map
 # create the map of HER sites across Northern Ireland
 fig3 = plt.figure(figsize=(8, 8))
 ax3 = plt.axes(projection=ni_utm)
@@ -637,7 +637,7 @@ scale_bar(ax3)
 # save figure
 fig3.savefig('Figure3.png', bbox_inches='tight', dpi=300)
 
-# figure 3.5 - NI_Mosaic raster backdrop on map
+# figure 3b - NI_Mosaic raster backdrop on map
 # create the figure and axes with UTM projection
 fig3_5 = plt.figure(figsize=(8, 8))
 ax3_5 = plt.axes(projection=ni_utm)
